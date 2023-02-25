@@ -1,5 +1,4 @@
 # Group 41
-Contributors:<br>
 Andy Nguyen andynguyen7835@gmail.com 8329705903 <br> 
 Brett Mclain brettmmclain@yahoo.com 9367147202 <br>
 Stella Ngo <br>
