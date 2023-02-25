@@ -1,3 +1,10 @@
+# Group 41
+Contributors:
+Andy Nguyen andynguyen7835@gmail.com 8329705903
+Brett Mclain brettmmclain@yahoo.com 9367147202
+Stella Ngo
+Emmanuel Mendieta 281-203-4531
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
