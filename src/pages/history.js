@@ -5,6 +5,10 @@ function QuoteHistory() {
     { id: 1, name: 'John Doe', location: 'Dallas', amount: 100, date: '2022-03-01' },
     { id: 2, name: 'John Doe', location: 'Houston', amount: 200, date: '2022-03-02' },
     { id: 3, name: 'John Doe', location: 'Austin', amount: 300, date: '2022-03-03' },
+    { id: 4, name: 'John Doe', location: 'San Antonio', amount: 400, date: '2022-03-04' },
+    { id: 5, name: 'John Doe', location: 'Waco', amount: 500, date: '2022-03-05' },
+    { id: 6, name: 'John Doe', location: 'Plano', amount: 600, date: '2022-03-06' },
+    
   ];
 
   return (
